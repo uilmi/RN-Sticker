@@ -9,9 +9,6 @@ StickerSmash is a mobile application developed using React Native and Expo. It a
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Components](#components)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Features
 
