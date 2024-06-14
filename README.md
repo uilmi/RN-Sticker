@@ -22,7 +22,7 @@ StickerSmash is a mobile application developed using React Native and Expo. It a
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```sh
 git clone https://github.com/yourusername/StickerSmash.git
