@@ -30,8 +30,10 @@ git clone https://github.com/yourusername/StickerSmash.git
 cd StickerSmash
 npm install
 npm start
+```
 
-Usage
+## Usage
+
 Open the Expo app on your mobile device.
 Scan the QR code displayed in the terminal after running npm start.
 The app will open on your device, and you can start using StickerSmash.
